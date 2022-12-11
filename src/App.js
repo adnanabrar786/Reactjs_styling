@@ -5,7 +5,7 @@ import Searchbar from './searchbar/Searchbar';
 function App() {
   return (
     <div className="App">
-       <Searchbar />
+       <Modal />
     </div>
   );
 }
